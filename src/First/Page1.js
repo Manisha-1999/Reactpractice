@@ -1,7 +1,7 @@
 import {Component} from 'react';
 
         const Page1 = () => {
-        console.log("hello");
+        console.log("hello page1");
         return <h1>Welcome to Page1 </h1>
         }
 
